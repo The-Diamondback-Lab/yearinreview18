@@ -5,7 +5,14 @@
     "img": "https://s3.amazonaws.com/wapopartners.com/dbknews-wp/wp-content/uploads/2017/08/27210602/imrs.jpg",
     "description": "Following the violent white supremacist protests in Charlottesville, Virginia, this university’s marching band, in conjunction with the athletic department and university president’s office, decided to remove “Maryland, My Maryland” from its repertoire. The song is an ode to the Confederacy; its lyrics deride the Union as “Northern scum.”"
   }],
-  "september17": [{
+  "september17": [
+    {
+        "headline": "Maryland football upsets No. 23 Texas for its first win over a ranked opponent since 2010",
+        "link": "http://www.dbknews.com/2017/09/02/maryland-texas-football-kasim-hill-score/",
+        "img": "https://s3.amazonaws.com/wapopartners.com/dbknews-wp/wp-content/uploads/2016/10/23011941/102216_FBvsMichiganSt_Durkin_mwr01-e1480884914142.jpg",
+        "description": "With a new head coach and a highly ranked freshman class, the Texas football team checked in at No. 23 on the preseason AP poll. But that didn’t stop Maryland from pulling off a 51-41 upset on the Longhorns’ home turf. The Terps took a 30-14 lead into halftime, and after starting quarterback Tyrrell Pigrome went down in the third quarter, true freshman Kasim Hill stepped in and held off the Longhorns to seal Maryland football’s first win over a ranked opponent since 2010."
+    },
+    {
       "headline": "The Hotel at the University of Maryland opens after two years of construction",
       "link": "http://www.dbknews.com/2017/09/08/the-hotel-umd-college-park/",
       "img": "https://s3.amazonaws.com/wapopartners.com/dbknews-wp/wp-content/uploads/2016/09/20020420/091416_Unfinished_TheHotel_dbk01.jpg",
